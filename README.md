@@ -1,2 +1,2 @@
-# CMIS141_Final
-Final Project in CMIS141
+# CMIS141
+All projects from CMIS141
